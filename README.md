@@ -13,7 +13,7 @@ Qui si raccolgono le segnalazioni per **Busta chiara**, l'app che legge le buste
 
 Busta chiara non invia nulla da sola: il file lo mandi tu, solo se vuoi.
 
-Se preferisci non pubblicarlo qui, puoi mandarlo per email all'indirizzo indicato nell'app.
+Se preferisci non pubblicarlo qui, puoi mandarlo per email a **bustachiara.segnalazioni@proton.me** (l'app prepara il messaggio con *Invia per email*).
 
 ## Problemi e suggerimenti
 
