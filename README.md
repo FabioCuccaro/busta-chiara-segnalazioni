@@ -15,7 +15,7 @@ Qui si raccolgono le segnalazioni per **Cedolì**, l'app che legge le buste paga
 
 Cedolì non invia nulla da sola: il file lo mandi tu, solo se vuoi.
 
-Se preferisci non pubblicarlo qui, puoi mandarlo per email a **bustachiara.segnalazioni@proton.me** (l'app prepara il messaggio con *Invia per email*).
+Se preferisci non pubblicarlo qui, puoi mandarlo per email a **cedoli.segnalazioni@proton.me** (l'app prepara il messaggio con *Invia per email*).
 
 ## Problemi e suggerimenti
 
