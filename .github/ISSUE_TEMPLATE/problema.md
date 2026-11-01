@@ -1,6 +1,6 @@
 ---
 name: Problema o suggerimento
-about: Qualcosa non funziona, un numero non torna o un'idea per migliorare Busta chiara
+about: Qualcosa non funziona, un numero non torna o un'idea per migliorare Cedolì
 title: ""
 labels: segnalazione
 ---
@@ -12,6 +12,6 @@ questa pagina è pubblica.
 
 **Cosa è successo o cosa vorresti**
 
-**Versione di Busta chiara** (in fondo alla pagina dell'app):
+**Versione di Cedolì** (in fondo alla pagina dell'app):
 
 **Sistema** (Windows 10, Windows 11, Linux, ...):
