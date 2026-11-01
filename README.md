@@ -1,6 +1,8 @@
-# Busta chiara: segnalazioni
+# Cedolì: segnalazioni
 
-Qui si raccolgono le segnalazioni per **Busta chiara**, l'app che legge le buste paga in PDF sul tuo computer, spiega le voci e controlla che i conti tornino. Il codice dell'app non è in questo repository.
+*Fino alla versione 0.8.0 l'app si chiamava Busta chiara.*
+
+Qui si raccolgono le segnalazioni per **Cedolì**, l'app che legge le buste paga in PDF sul tuo computer, spiega le voci e controlla che i conti tornino. Il codice dell'app non è in questo repository.
 
 > **Questa pagina è pubblica.** Non allegare mai il PDF del cedolino e non scrivere importi, nomi, codice fiscale o IBAN.
 
@@ -11,7 +13,7 @@ Qui si raccolgono le segnalazioni per **Busta chiara**, l'app che legge le buste
 3. Controlla il contenuto: l'app te lo mostra riga per riga subito dopo il salvataggio.
 4. Clicca *Apri una segnalazione su GitHub* (oppure [aprila da qui](../../issues/new?template=nuovo-formato.md)) e allega il file. Se GitHub non lo accetta, comprimilo in `.zip`.
 
-Busta chiara non invia nulla da sola: il file lo mandi tu, solo se vuoi.
+Cedolì non invia nulla da sola: il file lo mandi tu, solo se vuoi.
 
 Se preferisci non pubblicarlo qui, puoi mandarlo per email a **bustachiara.segnalazioni@proton.me** (l'app prepara il messaggio con *Invia per email*).
 

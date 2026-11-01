@@ -1,7 +1,7 @@
 ---
 name: Nuovo formato di busta paga
-about: Manda la struttura anonima di una busta paga che Busta chiara non sa ancora leggere
-title: "Busta chiara: nuovo formato di busta paga"
+about: Manda la struttura anonima di una busta paga che Cedolì non sa ancora leggere
+title: "Cedolì: nuovo formato di busta paga"
 labels: nuovo formato
 ---
 
@@ -12,6 +12,6 @@ NON allegare il PDF del cedolino: contiene i tuoi dati.
 Prima di inviare, apri il file e controlla che non ci siano nomi, importi o altri dati personali.
 -->
 
-Allego la struttura anonima di una busta paga che Busta chiara non sa ancora leggere. L'ho aperta e controllata: non contiene importi né dati personali.
+Allego la struttura anonima di una busta paga che Cedolì non sa ancora leggere. L'ho aperta e controllata: non contiene importi né dati personali.
 
 Gestionale o portale da cui arriva il cedolino (se lo sai):
